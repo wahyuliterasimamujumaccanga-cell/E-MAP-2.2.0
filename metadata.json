@@ -1,0 +1,6 @@
+{
+  "name": "E-MAP | Binanga Sehat Jiwa",
+  "description": "Platform edukasi dan penapisan mandiri kesehatan jiwa (PHQ-9 dan GAD-7) bersama SHG Binanga Sehat Jiwa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
